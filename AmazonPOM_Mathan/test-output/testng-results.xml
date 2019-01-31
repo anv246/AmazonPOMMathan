@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="67925" started-at="2018-08-21T04:03:33Z" finished-at="2018-08-21T04:04:41Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="67925" started-at="2018-08-21T04:03:33Z" finished-at="2018-08-21T04:04:41Z">
+      <class name="com.TestCase.HomePage_TestCase">
+        <test-method status="PASS" signature="invokeBrowser()[pri:0, instance:com.TestCase.HomePage_TestCase@6d78f375]" name="invokeBrowser" is-config="true" duration-ms="2329" started-at="2018-08-21T09:33:33Z" finished-at="2018-08-21T09:33:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invokeBrowser -->
+        <test-method status="PASS" signature="homePageValidation()[pri:1, instance:com.TestCase.HomePage_TestCase@6d78f375]" name="homePageValidation" duration-ms="65579" started-at="2018-08-21T09:33:36Z" finished-at="2018-08-21T09:34:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homePageValidation -->
+      </class> <!-- com.TestCase.HomePage_TestCase -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
